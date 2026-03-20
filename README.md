@@ -1,4 +1,5 @@
 INTRODUÇÃO
+
 Este trabalho apresenta um desenvolvimento de sistema web voltado para o gerenciamento de consultas em clínicas médicas, utlizando tecnologias estudadas na disciplina de Desenvolvimento Backend I.
 O sistema foi desenvolvido com o objetivo de permitir que o paciente marque sua consulta de forma rápida e organizada, além de criar um cadastro que ficará salvo no sistema para futuros agendamentos.
 Também foram aplicadas integrações com APIs externas que permitem a consulta de endereço através do CEP e a verificação das condições climaticas no dia da consulta. 
